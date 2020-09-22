@@ -1,5 +1,5 @@
 # Fibonacci Compute
-Computes fibonacci to n terms, made in Java and C
+Computes fibonacci up to 92 terms (overflows from 92 onwards), made in Java and C
 
 ## How to run
 ### Java
